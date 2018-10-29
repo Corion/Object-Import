@@ -1,5 +1,5 @@
 2018-10.29 v1.005 release to CPAN
- - fix syntax error with newer Perl versions
+ - fix syntax error with newer Perl versions ( RT106769, fix by Slaven Rezic )
  - New Maintainer Max Maischein
 
 2012-10-17 v1.004 release to CPAN
